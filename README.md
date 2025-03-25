@@ -29,3 +29,6 @@ Tech Stack:
 
 Outcome:  
 A fully functional chat app with real-time messaging, smooth UI, and message history.
+
+OUTPUT:
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/6073fa95-4232-4cb2-bb3b-6ab9cdc44fcd" />
